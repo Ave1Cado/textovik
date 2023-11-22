@@ -1,0 +1,14 @@
+C:\C#\skoropechat\textovik\textovik\bin\Debug\net6.0\textovik.exe
+C:\C#\skoropechat\textovik\textovik\bin\Debug\net6.0\textovik.deps.json
+C:\C#\skoropechat\textovik\textovik\bin\Debug\net6.0\textovik.runtimeconfig.json
+C:\C#\skoropechat\textovik\textovik\bin\Debug\net6.0\textovik.dll
+C:\C#\skoropechat\textovik\textovik\bin\Debug\net6.0\textovik.pdb
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.AssemblyInfoInputs.cache
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.AssemblyInfo.cs
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.csproj.CoreCompileInputs.cache
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.dll
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\refint\textovik.dll
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.pdb
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\textovik.genruntimeconfig.cache
+C:\C#\skoropechat\textovik\textovik\obj\Debug\net6.0\ref\textovik.dll

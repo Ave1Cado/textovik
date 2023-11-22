@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textovik", "textovik\textovik.csproj", "{5ABED3B8-0549-4F56-B9B3-2447C4E60966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ABED3B8-0549-4F56-B9B3-2447C4E60966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABED3B8-0549-4F56-B9B3-2447C4E60966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABED3B8-0549-4F56-B9B3-2447C4E60966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABED3B8-0549-4F56-B9B3-2447C4E60966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB742121-40EE-42AF-9506-D725C9DDFB48}
+	EndGlobalSection
+EndGlobal
